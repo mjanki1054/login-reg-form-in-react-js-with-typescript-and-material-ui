@@ -1,0 +1,15 @@
+.bg-color{
+  background-color: #f0f0f5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.form-wrapper{
+  background-color: #fff;
+  width: 40%;
+  padding: 20px 30px 30px;
+  border-radius: 0px;
+  margin: 100px auto;
+}
